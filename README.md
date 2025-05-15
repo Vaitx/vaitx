@@ -2,7 +2,7 @@
   <img src="https://github.com/Vaitx/vaitx/blob/897a96900391c94402707a8c0b307c2b110b4ebe/img_1.png" alt="Anime Banner" width="100%" />
 </p>
 
-<h1 align="center">Привет! Я Viktor 👋</h1>
+<h1 align="center">Привет! Я Виктор 👋</h1>
 <h3 align="center">Основатель студии <a href="https://vaitx.ru" target="_blank">Vaitx</a></h3>
 
 <p align="center">
