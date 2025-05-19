@@ -8,6 +8,9 @@
 
 ## 💳 Как поддержать
 
+### 🎮 Steam Trade Offer  
+[Отправить предмет через Стим](https://steamcommunity.com/tradeoffer/new/?partner=1166412259&token=fgG8o2TX)
+
 ### 🟠 Boosty  
 [https://boosty.to/vaitx/donate](https://boosty.to/vaitx/donate)
 
@@ -36,6 +39,9 @@ If you use this project, even **10 rubles** from each person reading this can wo
 **Don't pass by.** Even a small contribution is a big sign of support.
 
 ## 💳 Ways to Support
+
+### 🎮 Steam Trade Offer  
+[Send an item or gift via Steam](https://steamcommunity.com/tradeoffer/new/?partner=1166412259&token=fgG8o2TX)
 
 ### 🟠 Boosty  
 [https://boosty.to/vaitx/donate](https://boosty.to/vaitx/donate)
